@@ -8,3 +8,6 @@
 - Input function
 - Variables
 - Variable naming
+
+## Project: Band Name Generator
+- Uses print statements and inputs to generate a Band Name based on a city and pet.
